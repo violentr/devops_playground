@@ -6,6 +6,8 @@ Terraform commands:
 
 - $ terraform apply
 
+- $ terraform console
+
 - $ terraform destroy
 
 
