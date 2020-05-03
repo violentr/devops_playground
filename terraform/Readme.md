@@ -8,6 +8,10 @@ Terraform commands:
 
 - $ terraform console
 
+- $ terraform output
+
+- $ terraform show
+
 - $ terraform destroy
 
 
